@@ -4,10 +4,10 @@ This repository has been created for sharing codes used on the research submitte
   
 The manuscript's title is:  
 "**Carbonate lithofacies classification in optical microscopy: a data-centric approach using augmentation and GAN synthetic images**".  
-It has been submitted on Feb 24th, 2022.
+It has been submitted on Feb 25th, 2022.
 
 These are the authors:  
-Rafael Andrello Rubo - rafael.rubo@usp.br  
+Rafael Andrello Rubo - rafael.rubo@petrobras.com.br  
 Mateus Fontana Michelon  
 Cleyton de Carvalho Carneiro  
 
