@@ -8,8 +8,8 @@ It has been submitted on Feb 25th, 2022.
 
 These are the authors:  
 Rafael Andrello Rubo - rafael.rubo@petrobras.com.br  
-Mateus Fontana Michelon  
-Cleyton de Carvalho Carneiro  
+Mateus Fontana Michelon - mateus.michelon@petrobras.com.br  
+Cleyton de Carvalho Carneiro - cleytoncarneiro@usp.br  
 
 The codes have not yet been published due to undergoing authorization procedures.  
 If you are the editor or a reviewer for the journal, I would ask you to access the codes using the following links and password provided in the manuscript:
