@@ -8,8 +8,8 @@ It has been submitted on Feb 24th, 2022.
 
 These are the authors:  
 Rafael Andrello Rubo - rafael.rubo@usp.br  
-Cleyton de Carvalho Carneiro  
 Mateus Fontana Michelon  
+Cleyton de Carvalho Carneiro  
 
 The codes have not yet been published due to undergoing authorization procedures.  
 If you are the editor or a reviewer for the journal, I would ask you to access the codes using the following links and password provided in the manuscript:
