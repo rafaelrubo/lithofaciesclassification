@@ -1,6 +1,6 @@
 # Lithofacies Classification
 
-This repository has been created for sharing codes used on the research submitted to the scientific journal Computers & Geosciences.  
+This repository has been created for sharing codes used on the research submitted to the scientific Journal Computers & Geosciences.  
   
 The manuscript's title is:  
 "**Carbonate lithofacies classification in optical microscopy: a data-centric approach using augmentation and GAN synthetic images**".  
@@ -11,8 +11,9 @@ Rafael Andrello Rubo - rafael.rubo@petrobras.com.br
 Mateus Fontana Michelon - mateus.michelon@petrobras.com.br  
 Cleyton de Carvalho Carneiro - cleytoncarneiro@usp.br  
 
-The codes have not yet been published due to undergoing authorization procedures.  
-If you are the editor or a reviewer for the journal, I would ask you to access the codes using the following links and password provided in the manuscript:
+The codes are undergoing publishing authorization procedures.  
+They will be shortly made available under the MIT License, before the manuscript publication.  
+If you are the editor or a reviewer for the Journal, I would ask you to access the codes using the following links and password provided in the manuscript:
 
 [NLM_SpectralAugmentations.ijm](https://drive.google.com/file/d/1so7nBR09JtrN_AcUNAroAevNzVwvNw5C/view?usp=sharing)
 
