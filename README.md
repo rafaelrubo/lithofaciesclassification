@@ -13,9 +13,9 @@ Cleyton de Carvalho Carneiro - cleytoncarneiro@usp.br
 
 The codes are undergoing publishing authorization procedures.  
 They will be shortly made available under the MIT License, before the manuscript publication.  
-If you are the editor or a reviewer for the Journal, I would ask you to access the codes using the following links and password provided in the manuscript:
+If you are the editor or a reviewer for the Journal, I would ask you to access the codes using the uploaded PDF files, togheter with the password provided in the manuscript:
 
-[NLM_SpectralAugmentations.ijm](https://drive.google.com/file/d/1so7nBR09JtrN_AcUNAroAevNzVwvNw5C/view?usp=sharing)
+[NLM_SpectralAugmentations.ijm](NLM_SpectralAugmentations.ijm.pdf)
 
 [GeometricAugmentations.py](https://drive.google.com/file/d/1rgsDahBVjFL9BCM0rRJxTmDz180ZArtZ/view?usp=sharing)
 
