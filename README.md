@@ -17,8 +17,8 @@ If you are the editor or a reviewer for the Journal, I would ask you to access t
 
 [NLM_SpectralAugmentations.ijm](NLM_SpectralAugmentations.ijm.pdf)
 
-[GeometricAugmentations.py](https://drive.google.com/file/d/1rgsDahBVjFL9BCM0rRJxTmDz180ZArtZ/view?usp=sharing)
+[GeometricAugmentations.py](GeometricAugmentations.py.pdf)
 
-[GANSyntheticImages.py](https://drive.google.com/file/d/1jWCH8cjtBmEM7Zw5xJbIg4DEgmOZVOWh/view?usp=sharing)
+[GANSyntheticImages.py](GANSyntheticImages.py.pdf)
 
-[TrainingModels.py](https://drive.google.com/file/d/1dK1ZuAgIHWfK2oQTMYM8bB8fdwx-NDBZ/view?usp=sharing)
+[TrainingModels.py](TrainingModels.py.pdf)
