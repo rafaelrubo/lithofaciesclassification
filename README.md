@@ -1,10 +1,10 @@
 # Lithofacies Classification
 
-This repository has been created for sharing codes used on the research submitted to the scientific Journal Computational Geosciences.  
+This repository has been created for sharing codes used on the research submitted to the scientific Journal Earth Science Informatics.  
   
 The manuscript's title is:  
 "**Carbonate lithofacies classification in optical microscopy: a data-centric approach using augmentation and GAN synthetic images**".  
-It has been submitted on March 29th, 2022.
+It has been submitted on May 19th, 2022.
 
 These are the authors:  
 Rafael Andrello Rubo - rafael.rubo@petrobras.com.br  
