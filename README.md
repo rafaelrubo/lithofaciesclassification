@@ -6,6 +6,7 @@ The paper's title is:
 "**Carbonate lithofacies classification in optical microscopy: a data-centric approach using augmentation and GAN synthetic images**".  
 It was submitted on May 19th, 2022. It was published online on Nov 26th, 2022.
 Subscribers may download it at: https://doi.org/10.1007/s12145-022-00901-9
+
 A full-text - view-only - version may be accessed free of charge at: https://rdcu.be/c0tEu
 
 These are the authors and their contact information:  
