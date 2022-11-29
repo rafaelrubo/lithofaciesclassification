@@ -7,8 +7,11 @@ The paper's title is:
 
 It was submitted on May 19th, 2022. It was published online on Nov 26th, 2022.
 
+
 Download available for subscribers at: https://doi.org/10.1007/s12145-022-00901-9
+
 A full-text - view-only - version may be accessed free of charge at: https://rdcu.be/c0tEu
+
 
 These are the authors and their contact information:  
 Rafael Andrello Rubo - rafael.rubo@petrobras.com.br  
