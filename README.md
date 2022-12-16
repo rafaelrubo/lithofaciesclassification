@@ -21,7 +21,7 @@ System details used for training:
 1. Processor: Intel® Core™ i5-8250U (1.6 GHz);  
 2. RAM Memory: 8GB, DDR4, 2400MHz;  
 3. GPU: NVIDIA® GeForce® MX150 with GDDR5-4GB.  
-Classification models may be trained in the cloud. They were tested in Google Colab. However, it may be necessary to uso Colab Pro, considering the size of the training dataset.
+Classification models may be trained in the cloud. They were tested in Google Colab. However, it may be necessary to use Colab Pro, considering the size of the training dataset.
 
 These are the links for the codes mentioned in the paper:
 
